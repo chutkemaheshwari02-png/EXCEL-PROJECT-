@@ -85,8 +85,11 @@ Objectives
 9.	Develop an interactive Excel dashboard. 
 10.	Generate useful financial insights. 
 
+# INVESTMENT DASHBOARD :-
 
 <img width="1086" height="705" alt="image" src="https://github.com/user-attachments/assets/4adc2cb8-0809-42e2-8e7f-8f0ba58a849e" />
+
+
 
 
 
